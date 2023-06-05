@@ -1,0 +1,43 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1685973911078284, "dur":138, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911080661, "dur":89, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911078524, "dur":6478, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911085033, "dur":11353, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911096884, "dur":82, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1685973911096967, "dur":169, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911097881, "dur":436, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"UnityLinker /Users/familialopezortega/Downloads/Planet me/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1685973911098713, "dur":429, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":0, "ts":1685973911099764, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/yyeurxugd5ct.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911100412, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/xopz6f1f2jkn.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911100509, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/yzp8op7g0mq9.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911101692, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/81xaevi6o4890.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1685973911101778, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/_dummy_for_header_discovery" }}
+,{ "pid":12345, "tid":0, "ts":1685973911103468, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ixyl7b6t0yrf.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911103531, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5j5kui0rfd9j.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911103649, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/k79fleab2xfw.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911103723, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1iysoa9yzxpf0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1685973911104348, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/mnq7msq0i5dr.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911106989, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sl5z15sizpxx0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1685973911107061, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5dzx177ub18f.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911108081, "dur":379, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/j1tyr0gzsolk0.lump.cpp" }}
+,{ "pid":12345, "tid":0, "ts":1685973911108550, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/c88wtm9hdbbv.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911108962, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/bz2ysbdv2kn3.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911112790, "dur":521, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"IL2CPP_CodeGen /Users/familialopezortega/Downloads/Planet me/Library/Bee/artifacts/il2cpp_conv_1pj5.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1685973911116538, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ewy2re0xn6wq.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911116658, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0jm7r3utuwpp.o" }}
+,{ "pid":12345, "tid":0, "ts":1685973911122797, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/familialopezortega/Downloads/Planet me/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat" }}
+,{ "pid":12345, "tid":0, "ts":1685973911097155, "dur":27247, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911124438, "dur":641, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911125119, "dur":190, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911125395, "dur":18363, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1685973911097089, "dur":27372, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685973911124467, "dur":598, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685973911097104, "dur":27367, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685973911124481, "dur":522, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685973911125004, "dur":285, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685973911097145, "dur":27350, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685973911124516, "dur":502, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685973911097153, "dur":27353, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685973911124508, "dur":822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685973911156373, "dur":390, "ph":"X", "name": "ProfilerWriteOutput" }
+,
